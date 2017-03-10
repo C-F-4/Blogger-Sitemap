@@ -1,7 +1,3 @@
-<div id="tabbed-toc">
-<span class="loading">Loading, please wait for a moment...</span></div>
-<br />
-<script type="text/javascript">
 var tabbedTOC = {
     blogUrl: "https://codersfabric.blogspot.in", // Enter your blog URL
     containerId: "tabbed-toc", // Container ID
@@ -35,4 +31,3 @@ var tabbedTOC = {
     newText: " - <em style='color: white;padding: 1px 5px;border-radius: 20px;background-color: #F00;'>New!</em>" // HTML/CSS for
 //the "New!" text
 };
-</script>
